@@ -17,6 +17,10 @@
 
 # Tableau
 
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+| 🦄 [na](na) | na | [Dashboard](na) |
+| 🦠 [na](na) | na | [na](na) |
 
 ***
 
@@ -26,6 +30,12 @@
 ***
 
 # Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+|---|---|---|
+| 🦄 [na](na) | na |  | na | [Dashboard](na) |
+| 🦠 [na](na) | na |  | na |  [na](na) |
 
 
 ***
